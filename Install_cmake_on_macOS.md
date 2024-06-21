@@ -1,6 +1,6 @@
-# [macOS] Install CMake
+# [macOS 14.5] Install CMake 3.29.6
 
-Instructions on how to install the CMake tool on macOS.
+Instructions on how to install the CMake tool on macOS. This md is originally from Frederico Martins.
 
 ## Uninstall
 
