@@ -20,3 +20,6 @@ I used my ‘.edu’ email account to apply for a free version of Fetch. Now I�
 
 ### BBEdit or Sublime
 I finally purchased a BBEdit 15.
+
+### Eduroam Network at Fermilab
+The account is username@WIN.FERMI.GOV and the password is the same as your Fermilab service password.
