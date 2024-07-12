@@ -23,3 +23,10 @@ I finally purchased a BBEdit 15.
 
 ### Eduroam Network at Fermilab
 The account is username@WIN.FERMI.GOV and the password is the same as your Fermilab service password.
+
+### Github and NOvA software
+I follow the wiki page to link Github, my M3Max Macbook Pro and the novagpvm nodes together.
+```html
+https://cdcvs.fnal.gov/redmine/projects/novaart/wiki/Github
+```
+
