@@ -64,12 +64,13 @@ Please make sure you have the correct access rights
 and the repository exists.
 
 
-### open .eps files
-There are some colors that are shown different than shown in the .png version. So I just save the figures in the pdf format.
-
-
 newrel failed.
 ```
 Then I opened the known_hosts file, and deleted all lines. Then it worked.
 
+
+
+
+### open .eps files
+There are some colors that are shown different than shown in the .png version. So I just save the figures in the pdf format.
 
