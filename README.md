@@ -74,3 +74,5 @@ Then I opened the known_hosts file, and deleted all lines. Then it worked.
 ### open .eps files
 There are some colors that are shown different than shown in the .png version. So I just save the figures in the pdf format.
 
+### OS updates
+- Thu Aug 15 11:51:37 CDT 2024 -> 14.6.1 (23G93)
