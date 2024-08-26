@@ -76,3 +76,6 @@ There are some colors that are shown different than shown in the .png version. S
 
 ### OS updates
 - Thu Aug 15 11:51:37 CDT 2024 -> 14.6.1 (23G93)
+
+### Python 3.12.5
+After I installed Python 3.12, my pyROOT stopped working by Mon Aug 26 12:31:09 CDT 2024. I cannot import ROOT for now.
