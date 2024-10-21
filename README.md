@@ -79,3 +79,6 @@ There are some colors that are shown different than shown in the .png version. S
 
 ### Python 3.12.5
 After I installed Python 3.12, my pyROOT stopped working by Mon Aug 26 12:31:09 CDT 2024. I cannot import ROOT for now.
+
+### Sequoia Version 15.0.1 
+Mon Oct 21 14:34:27 CDT 2024, I updated the MacOS, then I cannot connect to Fermilab fgz network.
