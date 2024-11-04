@@ -82,3 +82,14 @@ After I installed Python 3.12, my pyROOT stopped working by Mon Aug 26 12:31:09 
 
 ### Sequoia Version 15.0.1 
 Mon Oct 21 14:34:27 CDT 2024, I updated the MacOS, then I cannot connect to Fermilab fgz network.
+
+### DNS servers
+I went to the service office with my MacBook Pro, and the Fermilab experts help me setup the DNS servers.
+```
+131.225.0.254
+```
+Now I can reconnect to fgz. 
+```bash
+ping fnal.gov
+```
+Mon Nov  4 14:58:21 CST 2024
