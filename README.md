@@ -113,3 +113,12 @@ Apptainer> ifdh cp root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/dune/tape_ba
 [1010MB/1010MB][100%][==================================================][1010MB/s][1010MB/1010MB][100%][==================================================][1010MB/s]
 ```
 Tue Dec 10 10:01:13 CST 2024
+
+### metacat password
+```bash
+Apptainer> metacat auth login -m password $USER 
+Password:
+User:    biaow
+Expires: Tue Dec 17 10:54:40 2024
+```
+I have to setup python v3_9_15 to let things happen. The password is Fermilab service password.
