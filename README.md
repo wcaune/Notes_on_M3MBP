@@ -95,7 +95,7 @@ ping fnal.gov
 Mon Nov  4 14:58:21 CST 2024,  I brought the ViewSonic 4K monitor to WH10E in the morning.
 
 ### First time ifdhc 
-'''bash
+```bash
 Apptainer> ifdh cp root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/dune/tape_backed/dunepro/physics/full-reconstructed/2023/mc/out1/MC_Winter2023_RITM1592444_reReco/54/05/35/65/NNBarAtm_hA_BR_dune10kt_1x2x6_54053565_607_20220331T192335Z_gen_g4_detsim_reco_65751406_0_20230125T150414Z_reReco.root /dev/null
 Attempting OIDC authentication with https://htvaultprod.fnal.gov:8200
 
@@ -111,5 +111,5 @@ Storing bearer token in /tmp/bt_token_dune_Analysis_47736
 [1010MB/1010MB][100%][==================================================][1010MB/s][1010MB/1010MB][100%][==================================================][1010MB/s]  
 Apptainer> ifdh cp root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/dune/tape_backed/dunepro/physics/full-reconstructed/2023/mc/out1/MC_Winter2023_RITM1592444_reReco/54/05/35/65/NNBarAtm_hA_BR_dune10kt_1x2x6_54053565_607_20220331T192335Z_gen_g4_detsim_reco_65751406_0_20230125T150414Z_reReco.root /dev/null
 [1010MB/1010MB][100%][==================================================][1010MB/s][1010MB/1010MB][100%][==================================================][1010MB/s]
-'''
+```
 Tue Dec 10 10:01:13 CST 2024
