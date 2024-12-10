@@ -122,3 +122,12 @@ User:    biaow
 Expires: Tue Dec 17 10:54:40 2024
 ```
 I have to setup python v3_9_15 to let things happen. The password is Fermilab service password.
+
+### Art DUNE
+```bash
+alias dunesl7="/cvmfs/oasis.opensciencegrid.org/mis/apptainer/current/bin/apptainer shell --shell=/bin/bash -B /cvmfs,/exp,/nashome,/pnfs/dune,/opt,/run/user,/etc/hostname,/etc/hosts,/etc/krb5.conf --ipc --pid /cvmfs/singularity.opensciencegrid.org/fermilab/fnal-dev-sl7:latest"
+
+alias dunesl7build="/cvmfs/oasis.opensciencegrid.org/mis/apptainer/current/bin/apptainer shell --shell=/bin/bash -B /cvmfs,/exp,/build,/nashome,/opt,/run/user,/etc/hostname,/etc/hosts,/etc/krb5.conf --ipc --pid /cvmfs/singularity.opensciencegrid.org/fermilab/fnal-dev-sl7:latest"
+
+alias dunesetups="source /cvmfs/dune.opensciencegrid.org/products/dune/setup_dune.sh"
+```
