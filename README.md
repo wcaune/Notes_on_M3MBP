@@ -135,3 +135,6 @@ alias dunesetups="source /cvmfs/dune.opensciencegrid.org/products/dune/setup_dun
 ### MacOS 15.3.2
 By Thu Mar 13 09:50:09 EDT 2025
 Then the new ROOT build failed.
+
+### Reinstalled ROOT-6.32.10
+Thu Mar 13 11:56:03 EDT 2025, see the standard alone note.
