@@ -131,3 +131,6 @@ alias dunesl7build="/cvmfs/oasis.opensciencegrid.org/mis/apptainer/current/bin/a
 
 alias dunesetups="source /cvmfs/dune.opensciencegrid.org/products/dune/setup_dune.sh"
 ```
+
+### MacOS 15.3.2
+By Thu Mar 13 09:50:09 EDT 2025
