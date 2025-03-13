@@ -15,7 +15,7 @@ Download and install `root_v6.32.10.macos-15.3-arm64-clang160.pkg`.
 Download and click ` root_v6.32.10.macos-15.3-arm64-clang160.tar.gz`, run `bin/root` to go through all the open anyway clicks in MacOS `System->Security`.
 
 ## Reinstall from source.
-Download the source file: `root_v6.32.10.source.tar.gz', click it and make two directory `r6i` and `r6b`.
+Download the source file: `root_v6.32.10.source.tar.gz`, click it and make two directory `r6i` and `r6b`.
 
 ```bash
 cd r6b
