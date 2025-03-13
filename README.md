@@ -137,4 +137,4 @@ By Thu Mar 13 09:50:09 EDT 2025
 Then the new ROOT build failed.
 
 ### Reinstalled ROOT-6.32.10
-Thu Mar 13 11:56:03 EDT 2025, see the standard alone note.
+Thu Mar 13 11:56:03 EDT 2025, see the note.
