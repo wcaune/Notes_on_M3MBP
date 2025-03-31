@@ -137,4 +137,5 @@ By Thu Mar 13 09:50:09 EDT 2025
 Then the new ROOT build failed.
 
 ### Reinstalled ROOT-6.32.10
-Thu Mar 13 11:56:03 EDT 2025, see the note.
+Thu Mar 13 11:56:03 EDT 2025, see the note:
+[Reinstall ROOT on MacOS 15](CERN_ROOT_PyROOT_Installation_On_MacOS15.md)
