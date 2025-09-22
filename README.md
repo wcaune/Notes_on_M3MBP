@@ -139,3 +139,7 @@ Then the new ROOT build failed.
 ### Reinstalled ROOT-6.32.10
 Thu Mar 13 11:56:03 EDT 2025, see the note:
 [Reinstall ROOT on MacOS 15](CERN_ROOT_PyROOT_Installation_On_MacOS15.md)
+
+### MacOS
+Mon Sep 22 13:31:55 CDT 2025
+I updated my MacOS to 15.7, and I will never install MacOS 26 on this laptop.
