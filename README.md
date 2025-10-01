@@ -143,3 +143,8 @@ Thu Mar 13 11:56:03 EDT 2025, see the note:
 ### MacOS
 Mon Sep 22 13:31:55 CDT 2025
 I updated my MacOS to 15.7, and I will never install MacOS 26 on this laptop.
+On Wed Oct  1 morning, I updated the MacOS to 15.7.1, still cannot connect to noVNC.
+```bash
+ssh -L 1443:acd-ops01.fnal.gov:443 acdaq@acd-gw05.fnal.gov
+acdaq@acd-gw05.fnal.gov: Permission denied (gssapi-keyex,gssapi-with-mic).
+```
