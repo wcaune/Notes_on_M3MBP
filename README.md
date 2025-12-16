@@ -148,3 +148,5 @@ On Wed Oct  1 morning, I updated the MacOS to 15.7.1, still cannot connect to no
 ssh -L 1443:acd-ops01.fnal.gov:443 acdaq@acd-gw05.fnal.gov
 acdaq@acd-gw05.fnal.gov: Permission denied (gssapi-keyex,gssapi-with-mic).
 ```
+Tue Dec 16 13:49:39 CST 2025
+I updated my MacOS to 15.7.3 before B mesons meeting.
