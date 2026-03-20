@@ -152,7 +152,7 @@ Tue Dec 16 13:49:39 CST 2025
 I updated my MacOS to 15.7.3 before B mesons meeting.
 
 ## Xcode
-After I upgraded Xcode, I got this message when using ROOT. Fri Mar 20 11:28:45 CDT 2026.
+After I upgraded Xcode, I got this message when using ROOT. Fri Mar 20 11:28:45 CDT 2026, Version 26.3 (17C529).
 ```bash
 sz:/Users/sz/talk2x2/plotD$ root -l example.C
 c++: error: argument to '-isysroot' is missing (expected 1 value)
