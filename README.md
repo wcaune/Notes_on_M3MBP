@@ -150,3 +150,30 @@ acdaq@acd-gw05.fnal.gov: Permission denied (gssapi-keyex,gssapi-with-mic).
 ```
 Tue Dec 16 13:49:39 CST 2025
 I updated my MacOS to 15.7.3 before B mesons meeting.
+
+## Xcode
+After I upgraded Xcode, I got this message when using ROOT. Fri Mar 20 11:28:45 CDT 2026.
+```bash
+sz:/Users/sz/talk2x2/plotD$ root -l example.C
+c++: error: argument to '-isysroot' is missing (expected 1 value)
+c++: error: no input files
+ERROR in cling::CIFactory::createCI(): cannot extract standard library include paths!
+Invoking:
+  LC_ALL=C /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -isysroot;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk   -xc++ -E -v /dev/null 2>&1 | sed -n -e '/^.include/,${' -e '/^ \/.*++/p' -e '}'
+Results was:
+c++: error: argument to '-isysroot' is missing (expected 1 value)
+c++: error: no input files
+With exit code 0
+/Users/sz/xcone/r6b/etc/cling/std_darwin.modulemap:450:10: error: header 'locale.h' not found
+  header "locale.h"
+         ^
+input_line_1:1:10: note: submodule of top-level module 'std' implicitly imported here
+#include <new>
+         ^
+Warning in cling::IncrementalParser::CheckABICompatibility():
+  Failed to extract C++ standard library version.
+Warning in cling::IncrementalParser::CheckABICompatibility():
+  Possible C++ standard library mismatch, compiled with _LIBCPP_ABI_VERSION '1'
+  Extraction of runtime standard library version was: ''
+root [0] 
+```
