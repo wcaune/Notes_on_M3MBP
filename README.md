@@ -177,3 +177,7 @@ Warning in cling::IncrementalParser::CheckABICompatibility():
   Extraction of runtime standard library version was: ''
 root [0] 
 ```
+
+### Rebuild ROOT 6.36.10
+Fri Mar 20 16:42:35 CDT 2026
+`source /Users/sz/nro/r6b/bin/thisroot.sh`
