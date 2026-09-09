@@ -181,3 +181,11 @@ root [0]
 ### Rebuild ROOT 6.36.10
 Fri Mar 20 16:42:35 CDT 2026
 `source /Users/sz/nro/r6b/bin/thisroot.sh`
+
+
+## Reset Kinit password, Github and Shell
+Wed Sep  9 01:35:36 PM CDT 2026
+```bash
+[biaow@dunegpvm11 ~]$ mv ~/.profile profile_bkp.txt
+[biaow@dunegpvm11 ~]$ mv ~/.bash_profile bash_profile_save.txt
+```
